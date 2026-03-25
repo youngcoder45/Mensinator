@@ -12,7 +12,7 @@ Mensinator is a privacy-first period tracking app. Your data stays on your local
 
 ## Data we collect
 
-Mensinator does not collect personal information and does not send your period/symptom data to our servers.
+Mensinator does not collect personal information and does not send your period/symptom data to any servers.
 
 The app does not require an account, sign-in, or email.
 
