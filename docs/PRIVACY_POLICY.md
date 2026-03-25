@@ -2,7 +2,7 @@
 
 Effective date: 2026-03-25
 
-Mensinator is a privacy-first period tracking app. Your data stays on your device.
+Mensinator is a privacy-first period tracking app. Your data stays on your local device.
 
 ## Summary
 
