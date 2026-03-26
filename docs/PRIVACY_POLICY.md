@@ -8,17 +8,19 @@ Mensinator is a privacy-first period tracking app. Your data stays on your local
 
 - Mensinator **does not collect, sell, or share** personal data.
 - Mensinator **does not use analytics, advertising, or tracking SDKs**.
-- Period and symptom data is stored **locally on your device**.
+- Period, symptom, and ovulation data is stored **locally on your device**.
 
 ## Data we collect
 
-Mensinator does not collect personal information and does not send your period/symptom data to our servers.
+Mensinator does not collect personal information and does not send your period, symptom, or ovulation data to our servers.
 
 The app does not require an account, sign-in, or email.
 
 ## Data stored on your device
 
 Mensinator stores the information you enter (such as cycle dates, symptoms, settings) on your device.
+
+Ovulation-related data you enter is also stored locally on your device (in a separate database table from period dates and symptoms).
 
 You can export/import data for backups or moving to another device. Exports are created on your device and are only shared if you choose to share the file yourself (for example, via a file manager).
 

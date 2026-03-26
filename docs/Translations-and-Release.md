@@ -23,7 +23,7 @@ If you need to add a new user-visible string:
 
 ## Store listing metadata (Fastlane)
 
-The folder `fastlane/metadata/android/` contains Play Store listing text per locale:
+The folder `fastlane/metadata/android/` contains store listing text per locale for **F-Droid / IzzyOnDroid** (not Google Play):
 
 - `title.txt`
 - `short_description.txt`
